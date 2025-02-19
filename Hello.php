@@ -8,7 +8,7 @@
 <body>
 <?php 
 echo("OPIS77 and i hate all of you guys");
-#http://localhost/PHP PROJECTS/Hello.php
+#http://localhost/php-xampp-practice/Hello.php
 ?>
 </body>
 </html>
